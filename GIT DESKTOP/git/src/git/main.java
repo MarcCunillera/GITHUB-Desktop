@@ -7,6 +7,8 @@ public class main {
 		
         System.out.println("Hola desde la rama main!");
 
+        
+        System.out.println("Hola desde la rama2!");
 	}
 
 }
