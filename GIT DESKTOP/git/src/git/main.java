@@ -9,7 +9,7 @@ public class main {
         
         System.out.println("Hola desde la rama1!");
 
-        
+        System.out.println("Aixo donara conflicte");
         System.out.println("Hola desde la rama2!");
 	}
 
